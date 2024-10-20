@@ -45,7 +45,7 @@ jobs:
           file: package/docker/Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: arunask/standard-config:${{env.ARTIFACT_VERSION}},arunsak/standard-config:latest
+          tags: arunsak/standard-config:${{env.ARTIFACT_VERSION}},arunsak/standard-config:latest
       # - name: Push Translations to Transifex
       #   run: |
       #     curl -o transifex.sh https://raw.githubusercontent.com/Bahmni/bahmni-infra-utils/main/transifex.sh
