@@ -85,9 +85,9 @@
                     "showDetailsButton":true
                 },
                 "prescriptionPrint":{
-                    "title": "Bahmni",
+                    "title": "CY Medical",
                     "header": "Prescriptions",
-                    "logo": "../images/bahmniLogo.png"
+                    "logo": "../images/clinicalLogo.png"
                 }
             },
             "radiology":{  
