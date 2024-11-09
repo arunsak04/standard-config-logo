@@ -16,14 +16,14 @@
 		{
 			"enabled": true,
 			"name": "clinicalService",
-			"title": "Clinical Service",
-			"logo": "/bahmni/images/app.png",
+			"title": "Healthscape Clinical",
+			"logo": "/bahmni/images/clinicalLogo.png",
 			"link": "/bahmni/home"
 		},
 		{
 			"enabled": true,
 			"name": "openelis",
-			"title": "Laboratory",
+			"title": "Lab diagnostics",
 			"logo": "/bahmni/images/lab.png",
 			"link": "/openelis"
 		},
