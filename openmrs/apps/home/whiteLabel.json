@@ -24,42 +24,42 @@
 			"enabled": true,
 			"name": "openelis",
 			"title": "Lab diagnostics",
-			"logo": "/bahmni/images/lab.png",
+			"logo": "/bahmni/images/labLogo.png",
 			"link": "/openelis"
 		},
 		{
 			"enabled": true,
 			"name": "odoo",
 			"title": "Stock Inventory & Billing",
-			"logo": "/bahmni/images/bills.png",
+			"logo": "/bahmni/images/stock.png",
 			"linkPrefix": "erp"
 		},
 		{
 			"enabled": false,
 			"name": "crater",
 			"title": "Payment & Billing",
-			"logo": "/bahmni/images/bills.png",
+			"logo": "/bahmni/images/stock.png",
 			"linkPrefix": "payments"
 		},
 		{
 			"enabled": true,
 			"name": "connect",
 			"title": "Connect",
-			"logo": "/bahmni/images/connect.png",
+			"logo": "/bahmni/images/cyconnect.png",
 			"link": "/bahmni-connect"
 		},
 		{
 			"enabled": true,
 			"name": "dcm",
 			"title": "Radiology",
-			"logo": "/bahmni/images/pac.png",
+			"logo": "/bahmni/images/radiology.png",
 			"link": "/dcm4chee-web3"
 		},
 		{
 			"enabled": true,
 			"name": "metabase",
 			"title": "Analytics",
-			"logo": "/bahmni/images/analytics.png",
+			"logo": "/bahmni/images/cyanalytics.png",
 			"link": "/metabase"
 		}
 	]
